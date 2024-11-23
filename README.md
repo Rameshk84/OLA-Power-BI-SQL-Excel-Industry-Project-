@@ -106,8 +106,8 @@ This dashboard serves as a **powerful tool** for OLA to:
 - 🌟 Drive customer satisfaction.  
 - 💰 Maximize revenue.  
 
-By leveraging structured insights and predictive analytics, stakeholders gain a **competitive edge** in making data-driven business decisions.<br>
-I used some of the Ai tools to leverage work in more faster way I developed this dashboard in less than 30 min and also provides Business recomandation using AI and also my approach and also cross verified by me.
+- By leveraging structured insights and predictive analytics, stakeholders gain a **competitive edge** in making data-driven business decisions.<br>
+- I used some of the AI tools to leverage work in a faster way I developed this dashboard in less than 30 min and it also provides Business recommendations using AI my approach and also cross-verified by me.
 
 ---
 
