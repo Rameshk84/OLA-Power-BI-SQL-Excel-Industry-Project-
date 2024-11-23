@@ -1,6 +1,8 @@
 # 🚖 **Comprehensive Analysis of OLA Ride Metrics using Power BI**  
 
 ---
+![image](https://github.com/user-attachments/assets/d731798d-94ae-4b1e-96e1-37a83f9d9fc0)
+
 
 ## 📝 **Introduction**  
 This project involves the creation of an advanced **Power BI dashboard** for analyzing various aspects of OLA rides during **July 2024**. The dashboard provides key insights into:  
